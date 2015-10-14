@@ -3,24 +3,31 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-pygments: true
+highlighter: pygments
 markdown: kramdown
+disqus: guildshow
+google_analytics: 
 
-title: dbyll
-description: Stylish Jekyll Theme
-disqus: dbyll-ghost # add disqus short name here
-author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Derek的日记本
+
+description: me & my life.
+author: guildshow
+  name: guildshow
+  email: 
+  github: guildshow
+  twitter: guildshow
+  pinterest: 
+  linkedin: 
+  bio: 
+  email_md5: 
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH:
