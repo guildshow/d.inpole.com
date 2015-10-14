@@ -3,31 +3,24 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: pygments
+pygments: true
 markdown: kramdown
-disqus: guildshow
-google_analytics: 
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Derek的日记本
-
+title: Derek的日记本
 description: me & my life.
-author: guildshow
-  name: guildshow
+disqus: guildshow # add disqus short name here
+author:
+  name: derek
   email: 
   github: guildshow
   twitter: guildshow
   pinterest: 
   linkedin: 
   bio: 
-  email_md5: 
+  email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH:
+BASE_PATH: http://d.inpole.com
