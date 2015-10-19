@@ -10,3 +10,4 @@ permalink: /about/
 * QQ微博: @starplex；基本只会扯淡；
 * QQ:284264172；基本持续在线；
 * Email: Guildshow[at]Gmail[dot]com；基本每天检收信件；
+* 个人博客： [音炮，不是嘴炮](http://inpole.com/)
