@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+**DerekGao**，游戏行业从业者，小小策划一枚。现苦逼创业中。 板着脸分析，涎着脸扯淡；时常胡言乱语，偶尔口不择言。 话说神龙见首不见尾，哥没那境界；联系方式附后，以飨各位看官。
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
-
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
-
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
-
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+* Twitter: @Guildshow；基本RT不发言；
+* QQ微博: @starplex；基本只会扯淡；
+* QQ:284264172；基本持续在线；
+* Email: Guildshow[at]Gmail[dot]com；基本每天检收信件；
