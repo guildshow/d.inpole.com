@@ -20,6 +20,6 @@ permalink: /about/
 ## OUR GAMEs
 
 
-![喵喵堂2](http://d.inpole.com/about/images/ad_img/mmt_ads_suit1_220x120.png)
+![喵喵堂2](http://d.inpole.com/images/ad_img/mmt_ads_suit1_220x120.png)
 
- **[游戏链接]**(http://rc.qzone.qq.com/1104856264/)
+[游戏链接](http://rc.qzone.qq.com/1104856264/)
