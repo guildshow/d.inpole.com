@@ -2,6 +2,7 @@
 layout: post
 title: 念奴娇.赤壁怀古
 category: 宋词
+thumb: /images/read_in.png
 comments: true
 ---
 
