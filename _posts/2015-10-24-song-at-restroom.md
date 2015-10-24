@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 隔壁坑响的旧歌声
+title: 隔壁坑响起的旧歌声
 category: 日记
 thumb: /images/others_in.png
 comments: false
