@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 敢做敢爱
 category: 歌词
