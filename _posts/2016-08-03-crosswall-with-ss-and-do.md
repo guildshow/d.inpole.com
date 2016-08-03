@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "用ShadowSocks和DigitalOcean科学上网"
+title:  "用SS和DigitalOcean科学上网"
 date:   2016-08-03
 excerpt: "使用VPS自行搭建SS服务器，实现科学上网。"
 tag:
@@ -30,6 +30,7 @@ tag:
 - SSH客户端软件：**PUTTY**；[点击下载](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)；
 
 其中[Digital Ocean](https://m.do.co/c/b6ee2fbd15a1)的注册流程，可参考以下文章：
+
 > [百度经验： DigitalOcean免费VPS申请试用教程](http://jingyan.baidu.com/article/29697b91c09710ab20de3c86.html)；
 
 ## PART2：VPS创建
@@ -37,7 +38,8 @@ tag:
 拥有[Digital Ocean](https://m.do.co/c/b6ee2fbd15a1)的帐号以后，我们来搭建一个VPS服务器；
 
 教程如下：
->[使用Digital Ocean快速创建云主机](https://www.xiaoz.me/archives/4678?replytocom=2335)；
+
+> [使用Digital Ocean快速创建云主机](https://www.xiaoz.me/archives/4678?replytocom=2335)；
 
 此时，我们就拥有一个VPS主机了。
 
@@ -58,11 +60,11 @@ tag:
 
 使用PUTTY连接服务器；如下图所示位置输入服务器的固定IP（IP Adress）：
 
-![cmd-markdown-logo](http://pic.yupoo.com/starplex/FJsZzB4z/medish.jpg)
+![配置putty](http://pic.yupoo.com/starplex/FJsZzB4z/medish.jpg)
 
 然后点击OPEN，使用用户名（Username）root和对应密码（Password）来登录，成功后如下图：
 
-![cmd-markdown-logo](http://pic.yupoo.com/starplex/FJsZBorj/medish.jpg)
+![连接](http://pic.yupoo.com/starplex/FJsZBorj/medish.jpg)
 
 连接成功后，进入下一步；
 
@@ -70,7 +72,7 @@ tag:
 
 在连接窗口，依次输入以下命令：
 
-![cmd-markdown-logo](http://pic.yupoo.com/starplex/FJtc1QHo/medish.jpg)
+![ssh控制台](http://pic.yupoo.com/starplex/FJtc1QHo/medish.jpg)
 
 **更新**：
 
@@ -174,12 +176,12 @@ sudo vi /etc/rc.local
 
 因为[Digital Ocean](https://m.do.co/c/b6ee2fbd15a1)极为良心，按每小时来扣费的；当我们的shadowsocks服务器关闭时，[Digital Ocean](https://m.do.co/c/b6ee2fbd15a1)是不会进行扣费的。所以我们完全可以在不用的时候将服务器关闭，以节省支出。
 
-![digital ocean](http://pic.yupoo.com/starplex/FJtgBAk8/medium.jpg)
-![digital ocean](http://pic.yupoo.com/starplex/FJtfttXS/medium.jpg)
+![digital ocean1](http://pic.yupoo.com/starplex/FJtgBAk8/medium.jpg)
+![digital ocean2](http://pic.yupoo.com/starplex/FJtfttXS/medium.jpg)
 
 
 登录至[Digital Ocean](https://m.do.co/c/b6ee2fbd15a1)之后，点击上图1位置，可以找到你所创建的VPS主机。
-![digital ocean](http://pic.yupoo.com/starplex/FJthk1dS/medium.jpg)
+![digital ocean3](http://pic.yupoo.com/starplex/FJthk1dS/medium.jpg)
 
 然后点击进入VPS设置，在上图2位置，点击至OFF即会关闭当前服务器。
 
