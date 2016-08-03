@@ -7,11 +7,9 @@ layout: home
 
 联系方式附后，静候各位看官。
 
-<dl>
-  <dt>联系方式</dt>
-  <dd>Email: Guildshow[at]Gmail[dot]com；</dd>
-  <dd>Twitter: @Guildshow；</dd>
-  <dd>QQ微博: @starplex；</dd>
-  <dd>QQ: 284264172；</dd>
-  <dd>知乎: https://www.zhihu.com/people/inpole；</dd> 
-</dl>
+
+- Email: Guildshow[at]Gmail[dot]com
+- Twitter: @Guildshow
+- QQ微博: @starplex
+- QQ: 284264172
+- 知乎: https://www.zhihu.com/people/inpole
