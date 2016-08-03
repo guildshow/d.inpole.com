@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "用ShadowSocks和DigitalOcean科学上网"
 date:   2016-08-03
