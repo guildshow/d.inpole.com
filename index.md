@@ -1,10 +1,14 @@
 ---
 layout: home
 ---
-# About Theme
+# About Derek
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+DerekGao，游戏行业从业者，小小策划一枚。现苦逼创业中。 板着脸分析，涎着脸扯淡；时常胡言乱语，偶尔口不择言。 话说神龙见首不见尾，咱没那境界；
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+联系方式附后，静候各位看官。
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+* Twitter: @Guildshow；基本RT不发言；
+* QQ微博: @starplex；基本只会扯淡；
+* QQ:284264172；基本持续在线；
+* Email: Guildshow[at]Gmail[dot]com；基本每天检收信件；
+* 知乎主页：https://www.zhihu.com/people/inpole；
