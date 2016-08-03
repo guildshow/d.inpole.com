@@ -11,6 +11,6 @@ layout: home
 
 **欢迎收看：**
 
-[IN.POLE 音炮](http://inpole.com)
+个人博客 [IN.POLE 音炮](http://inpole.com)
 
-[知乎日报：游戏人的关注点](http://dudu.zhihu.com/circle/385823?utm_campaign=in_app_share&utm_medium=iOS&utm_source=copy)
+知乎日报 [游戏人的关注点](http://dudu.zhihu.com/circle/385823?utm_campaign=in_app_share&utm_medium=iOS&utm_source=copy)
