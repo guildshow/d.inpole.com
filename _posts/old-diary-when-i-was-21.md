@@ -1,7 +1,6 @@
 ﻿---
 layout: post
 title: 21岁生日感言
-date:   2006-08-01
 excerpt: "刚刚度过了我的21岁生日，未来依然一片渺茫。"
 category: 旧时日记
 comments: false

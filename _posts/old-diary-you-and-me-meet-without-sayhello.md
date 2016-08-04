@@ -1,7 +1,6 @@
 ﻿---
 layout: post
 title: 你我只是擦肩而过
-date:   2006-08-01
 excerpt: "你我只是擦肩而过，没有微笑，甚至没有叹息一声。"
 category: 旧时日记
 comments: false

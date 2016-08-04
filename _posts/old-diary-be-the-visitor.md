@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 只做旁观者
-date: 2006-08-01
 excerpt: "永远只有旁观者最为明智。"
 category: 旧时日记
 comments: false
