@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 手机硬件按钮映射到GM中虚拟按键的代码
+title: Android按钮映射GMS虚拟按键
 excerpt: "Android手机开发需要了解的Tips。"
 category: GMS相关
 comments: false
@@ -10,7 +10,7 @@ tag:
 - 开发Tips
 ---
 
-## 手机硬件按钮映射到GM中虚拟按键的代码
+## Android设备按钮映射GMS虚拟按键
 
 ![Nexus](/images/diary_img/nexus_111.png)
 
