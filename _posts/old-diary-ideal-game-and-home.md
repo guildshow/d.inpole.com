@@ -4,7 +4,7 @@ title: 理想、游戏与桃源
 date:   2006-08-01
 excerpt: "我的游戏，便是我的桃源。"
 category: 旧时日记
-comments: true
+comments: false
 tag:
 - 旧时日记
 ---

@@ -4,7 +4,7 @@ title: 浪奔，浪流……
 date:   2006-08-01
 excerpt: "你我总归都是过客。"
 category: 旧时日记
-comments: true
+comments: false
 tag:
 - 旧时日记
 ---
