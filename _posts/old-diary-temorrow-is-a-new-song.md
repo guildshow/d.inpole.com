@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 明天是一首歌
-date:   2006-08
+date:   2006-08-01
 excerpt: "只希望彼此的记忆，能够像这首歌一样，不会刻意记起，可永远也不会忘记。"
 category: 旧时日记
 comments: true
