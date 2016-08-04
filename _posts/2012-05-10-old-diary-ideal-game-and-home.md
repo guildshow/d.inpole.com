@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 理想、游戏与桃源
 excerpt: "我的游戏，便是我的桃源。"
