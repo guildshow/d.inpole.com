@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 浪奔，浪流……
 excerpt: "你我总归都是过客。"
