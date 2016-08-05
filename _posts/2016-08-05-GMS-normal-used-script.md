@@ -14,11 +14,12 @@ tag:
 ### 禁用双击
 脚本如下：
 ```php
-device_mouse_dbclick_enable(false);   //无效化双击事件。`
+device_mouse_dbclick_enable(false);   //无效化双击事件。
 ```
 ### 手机倾斜判断
 
 脚本如下：
+
 ```php
 php
 if (os_type == os_ios or os_type == os_android)

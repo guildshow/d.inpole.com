@@ -51,7 +51,7 @@ position_meeting(x,y,obj) 
 
 ```php
 instance_place(x,y,obj) 
-```php
+```
 返回值为遇到当前（，）位置上实例的的实例名。参数可以是某对象或是关键字。如果不存在，返回特殊对象 noone 。
 
 ```php
