@@ -14,7 +14,9 @@ tag:
 ## 在[Vultr](http://www.vultr.com/?ref=6952194-3B)上安装LAMP环境经验整理
 
 在[Vultr VPS云](http://www.vultr.com/?ref=6952194-3B)上安装了LAMP环境和Wordpress；略有经验教训可以分享；简单整理一下。
+
 ### 0.前提
+
 * 购买[Vultr VPS云](http://www.vultr.com/?ref=6952194-3B)后搭建环境；
 * 使用[LAMP一键安装包](http://lnmp.org/install.html)安装环境；
 * 使用[wordpress](http://cn.wordpress.org)搭建BLOG；
