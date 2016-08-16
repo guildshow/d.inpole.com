@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JS学习笔记第一期(Chap2-Chap4)
-excerpt: "简单整理JS的一些要点和易误点；第一期，前4章内容；"
+excerpt: "简单整理JS的一些要点和易误点；S1，包括前4章内容；"
 category: 笔记
 comments: false
 tag:
@@ -10,11 +10,11 @@ tag:
 
 ---
 
-#JS学习笔记第一期(Chap2-Chap4)
+## JS学习笔记第一期(Chap2-Chap4)
 
 JavaScript简介略；
 
-## alert指令
+### alert指令
 
 弹窗说明，使用：
 
@@ -25,19 +25,19 @@ JavaScript简介略；
     alert("</scr"+"ipt>");
 
 
-## 字面量
+### 字面量
 
 以下：
- 
+
 	100    //数字字面量；
 	"哦哦哦"    //字符串字面量；
-	fasle    //布尔值字面量； 
-	/js/gi    //正则表达式字面量； 
-	null  //对象字面量； 
-	{x:1,y:2}    //对象字面量表达式； 
+	fasle    //布尔值字面量；
+	/js/gi    //正则表达式字面量；
+	null  //对象字面量；
+	{x:1,y:2}    //对象字面量表达式；
 	[1,2,3,4,5]   //数组字面量表达式；
 
-## 数据类型
+### 数据类型
 
 JS有以下类型：
 
@@ -57,7 +57,7 @@ JS有以下类型：
     }
     alert("boxFunction type is " + typeof boxFunction); // boxFunction是Function，类型返回字符串是function；
 
-## Number类型
+### Number类型
 
 科学计数法
 
@@ -93,14 +93,14 @@ JS有以下类型：
     window.alert(parseFloat("0x1fLee"));  //0，不认识16进制；
     window.alert(parseFloat("0.12.5"));  //0.12，不考虑第二位以上的小数点
 
-## String类型
+### String类型
 
 简单规则：
 
 * 单引号''或双引号""都可以，需成对出现；
 * 转义字符：\n换行，\t制表，\b空格， \r回车，\f进纸，\\斜杠， \'单引号，\"双引号；
 * 转义字符：\xnn 以十六进制代码nn表示的一个字符，例如\x41；
-* 转义字符：\unnn 以十六进制代码nnn表示的一个Unicode字符(0~F)。例如\u03a3； 
+* 转义字符：\unnn 以十六进制代码nnn表示的一个Unicode字符(0~F)。例如\u03a3；
 
     window.alert("\x41");
 
@@ -109,4 +109,3 @@ JS有以下类型：
     alert(box.toString(2)); //二进制
     alert(box.toString(8)); //八进制
     alert(box.toString(16)); //十六进制
-
