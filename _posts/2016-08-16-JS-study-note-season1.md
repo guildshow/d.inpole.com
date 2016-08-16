@@ -14,7 +14,7 @@ tag:
 
 JavaScript简介略；
 
-### alert指令
+### 1.弹窗alert指令
 
 弹窗说明，使用：
 
@@ -25,7 +25,7 @@ JavaScript简介略；
     alert("</scr"+"ipt>");
 
 
-### 字面量
+### 2.字面量
 
 以下：
 
@@ -37,9 +37,9 @@ JavaScript简介略；
 	{x:1,y:2}    //对象字面量表达式；
 	[1,2,3,4,5]   //数组字面量表达式；
 
-### 数据类型
+### 3.数据类型
 
-JS有以下类型：
+JS有以下数据类型：
 
 * Undefined 未定义
 * Boolean 布尔值
@@ -48,17 +48,19 @@ JS有以下类型：
 * Object 对象
 * Function 函数
 
+使用时首字母都需大写；
+
 获取类型typeof
 
-    var objBoxx = new Object();   //Object的O一定要大写；
+    var objBoxx = new Object();
     window.alert ("objBoxx type is "+ typeof objBoxx);  
 
     function boxFunction() {
     }
     alert("boxFunction type is " + typeof boxFunction);
-    // boxFunction是Function，类型返回字符串是function；
+    // boxFunction是Function，类型返回字符串"function"；
 
-### Number类型
+### 4.Number类型
 
 科学计数法
 
@@ -94,7 +96,7 @@ JS有以下类型：
     window.alert(parseFloat("0x1fLee"));  //0，不认识16进制；
     window.alert(parseFloat("0.12.5"));  //0.12，不考虑第二位以上的小数点
 
-### String类型
+### 5.String类型
 
 简单规则：
 
