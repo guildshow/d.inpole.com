@@ -34,7 +34,7 @@ tag:
 
 ### 3.逻辑运算符
 
-与&&的特殊用法：
+与"&&"的特殊用法：
 
     alert({} && 5);   //5;如果第一个是对象，则返回第二个值；
     alert(true && {}); //如果第二个是对象，则第一个是true的情况下会返回第二个值；否则返回false；
@@ -45,7 +45,7 @@ tag:
     alert(5>4 && undefined);   //第一个是true而第二个是undefined时，返回undefined；
     alert(null && 5>4);   //第一个是null，或第一个是true第二个是null时，返回null；   
 
-或||的特殊用法
+或"||"的特殊用法
 
 假设boxOb1、boxOb2是提前声明的对象；而boxOb3未声明：
 
