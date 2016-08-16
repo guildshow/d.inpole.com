@@ -55,7 +55,8 @@ JS有以下类型：
 
     function boxFunction() {
     }
-    alert("boxFunction type is " + typeof boxFunction); // boxFunction是Function，类型返回字符串是function；
+    alert("boxFunction type is " + typeof boxFunction);
+    // boxFunction是Function，类型返回字符串是function；
 
 ### Number类型
 
