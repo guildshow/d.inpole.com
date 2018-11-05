@@ -1,0 +1,1 @@
+rake postinpole title="edit article name"

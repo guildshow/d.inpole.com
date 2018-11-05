@@ -22,7 +22,7 @@ device_mouse_dbclick_enable(false);
 
 脚本如下：
 
-```php
+```lua
 if (os_type == os_ios or os_type == os_android)
 {
     turn_device =  device_get_tilt_x();    //return value (-1,1);
@@ -36,3 +36,4 @@ if (os_type == os_ios or os_type == os_android)
     }
 }
 ```
+
